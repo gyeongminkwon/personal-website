@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 193cf136-fe64-4687-8346-03ba2150ae9e
+      url: https://gyeongminkwon.netlify.app
