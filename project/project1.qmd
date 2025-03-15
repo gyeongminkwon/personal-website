@@ -1,0 +1,12 @@
+--- 
+title: Poker 
+image: poker.jpg
+---
+
+- Developed a machine learning model to analyze opponent betting patterns and predict betting risk.
+
+- Advocated for a more complex approach to data modeling, transitioning from one-dimensional models like Random Forest, Logistic Regression, XGBoost to more complex models like MLP and LSTM. Refined feature selection and improved model accuracy from 0.52 to 0.72.
+
+![Accuracy with Simpler Models](data_models.jpg)
+
+![Accuracy with LSTM Model](lstm.png)

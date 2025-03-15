@@ -1,0 +1,14 @@
+--- 
+title: ROK-US Combined Training
+image: rok_us.png
+---
+
+**Data Analyst** | Sep 2022 - Mar 2023
+
+- Operated ATCIS (Army Tactical Command Information System) to manage and share real-time tactical data (personnel, supplies, equipment, and damage reports) between ROK and U.S. forces.
+
+- Addressed cross-cultural differences in data analysis to improve operational efficiency by visualizing excel data on ATIS using both English and Korean. 
+
+- Served as a bilingual liaison between Korean and U.S. military personnel, ensuring accurate communication and data interpretation.
+
+![Example of ATCIS Usage](atcis.jpg)

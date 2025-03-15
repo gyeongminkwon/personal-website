@@ -1,0 +1,11 @@
+--- 
+title: Ranssul 
+image: ranssul.jpg
+---
+
+**Front-End Developer Intern** | Dec 2023 – April 2024	 
+
+- Focused on improving UI/UX by utilizing HTML, React, and TypeScript. Worked closely with the design team to apply design templates to the front-end. Participated in UI/UX debugging by incorporating user feedback.
+
+- Resolved cross-browser compatibility issues, which was mitigated by implementing Normalize.css to ensure consistency across different browsers. 
+

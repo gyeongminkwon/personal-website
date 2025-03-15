@@ -1,0 +1,12 @@
+--- 
+title: HYEL 
+image: hyel.jpg
+---
+
+*Data Analyst and Marketing Intern* | Sep 2023 – Mar 2024
+
+- Worked as an intern at HYEL, a mobile app development startup, where I automated the user feedback analysis process using Python and SQL due to the lack of a structured system. 
+
+- Contributed to the growth of the app’s user base to over 2,000 users, primarily Korean students in the U.S. event community. Additionally, collaborated with the CEO to create and present a pitch deck, and worked with the team to transition the user feedback system to a structured Excel-based SQL database.
+
+![User Feedback](user_feedback.jpg)

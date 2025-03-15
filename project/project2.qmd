@@ -1,0 +1,13 @@
+---
+title: Obesity
+image: obesity.png
+---
+
+- Analyzed U.S. obesity rates (2020-2022) using a dataset with 34 variables, identifying key contributing factors through data preprocessing and feature selection.
+
+- Implemented Multivariate Multiple Regression, Logistic Regression, and Decision Tree models to assess accuracy and variable significance. 
+
+- Overcame low model accuracy by exploring advanced techniques beyond coursework, incorporating Random Forest, KNN, and XGBoost, leading to significant performance improvements.
+
+![Factor Diagram](diagram.png)
+![Residuals](residual.png)

@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/work_experiences.html",
+    "items": [
+      "/work/work1.html",
+      "/work/work2.html",
+      "/work/work3.html"
+    ]
+  },
+  {
+    "listing": "/project.html",
+    "items": [
+      "/project/project1.html",
+      "/project/project2.html"
+    ]
+  }
+]

@@ -1,12 +1,16 @@
 project:
   type: website
+  resources: 
+    - resume.pdf
 
 website:
+  title: "GyeongMin Kwon"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: work_experiences.qmd
+      - href: project.qmd
 
 format:
   html:

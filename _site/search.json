@@ -1,16 +1,58 @@
 [
   {
+    "objectID": "work_experiences.html",
+    "href": "work_experiences.html",
+    "title": "Work Experiences",
+    "section": "",
+    "text": "The following are work experiences I have accumulated:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHYEL\n\n\n\n\n\n\n\n\n\n\n\n\n\nRanssul\n\n\n\n\n\n\n\n\n\n\n\n\n\nROK-US Combined Training\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "work/work2.html",
+    "href": "work/work2.html",
+    "title": "Ranssul",
+    "section": "",
+    "text": "Front-End Developer Intern | Dec 2023 – April 2024\n\nFocused on improving UI/UX by utilizing HTML, React, and TypeScript. Worked closely with the design team to apply design templates to the front-end. Participated in UI/UX debugging by incorporating user feedback.\nResolved cross-browser compatibility issues, which was mitigated by implementing Normalize.css to ensure consistency across different browsers."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The following are the projects I have worked on:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoker\n\n\n\n\n\n\n\n\n\n\n\n\n\nObesity\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "project/project1.html",
+    "href": "project/project1.html",
+    "title": "Poker",
+    "section": "",
+    "text": "Developed a machine learning model to analyze opponent betting patterns and predict betting risk.\nAdvocated for a more complex approach to data modeling, transitioning from one-dimensional models like Random Forest, Logistic Regression, XGBoost to more complex models like MLP and LSTM. Refined feature selection and improved model accuracy from 0.52 to 0.72.\n\n\n\n\nAccuracy with Simpler Models\n\n\n\n\n\nAccuracy with LSTM Model"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "GyeongMin Kwon",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 5\n\n[1] 6"
+    "text": "Hello! I am a third-year undergraduate student at UCLA pursuing a major in Statistics and Data Science.\n\nEducation\nUniversity of California, Los Angeles B.S. Statistics and Data Science Sept 2020 - Present\n\n\nClubs\n\nKSEA (Sept 2023 - June 2024)\nI participated in Korean-American Scientists and Engineers Association for networking opportunities both on and off campus through LeetCode study groups, resume workshops, and Banquet Nights with other neighboring schools.\nDataRes (Sept 2023 - Mar 2024)\nAs a member of the DataLearn team, I conducted basic R and Python lectures for local high school students and first- and second-year university students.\nKUBS (Sept 2023 - June 2024) In Korean Undergraduate Business Society, I was a member of the CFA department, and I focused on fund management, investment analysis, and drafting corporate sponsorship proposals.\nReadyMade (Sept 2023 - Marh 2025)\nReadyMade is a Korean busking club at UCLA, and as the vocal director, I organized performances, secured venues in the LA area, and directed music recordings."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "project/project2.html",
+    "href": "project/project2.html",
+    "title": "Obesity",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(100)\n\n  [1] 0.7775638127 0.0081063751 0.7430602578 0.2087246010 0.9107073047\n  [6] 0.2934584310 0.1145464594 0.1104946772 0.0277318640 0.4205434388\n [11] 0.4346895264 0.1612878579 0.1876948539 0.5715670432 0.5504892902\n [16] 0.4341040533 0.0462854502 0.2112441787 0.8406498521 0.7133542062\n [21] 0.9563824963 0.5021182825 0.9726086711 0.6991263446 0.4592315229\n [26] 0.4566778017 0.8659797406 0.4908724718 0.9284155723 0.0784987845\n [31] 0.2258821253 0.1541711297 0.8717947933 0.4226975811 0.0874262056\n [36] 0.0798456566 0.5650490960 0.5749166410 0.4308130962 0.0545389026\n [41] 0.5161349045 0.9764014613 0.1007654944 0.4396425793 0.4321519251\n [46] 0.4193755700 0.6564363579 0.3728931404 0.8940667871 0.2276834042\n [51] 0.9184090344 0.8761316463 0.5758970152 0.2275260056 0.4097705772\n [56] 0.7044872264 0.8759813774 0.6343654047 0.6852906547 0.6512909201\n [61] 0.1311363578 0.6932269544 0.2142235436 0.9585840660 0.1307194978\n [66] 0.0722745075 0.0710307693 0.6545494909 0.0001677908 0.2950044372\n [71] 0.7339268057 0.5885628765 0.4049040752 0.6438029385 0.4388835065\n [76] 0.1669810063 0.1909745389 0.9841490879 0.8767763027 0.7700852249\n [81] 0.7006010110 0.5341708858 0.8408830441 0.5902920598 0.1962746058\n [86] 0.3851015689 0.9026198590 0.4628221379 0.7061393629 0.2094700229\n [91] 0.0466133107 0.2194850834 0.3940065466 0.8958558093 0.3842723942\n [96] 0.4369798515 0.4104941103 0.9779734260 0.7245077579 0.0696502437"
+    "text": "Analyzed U.S. obesity rates (2020-2022) using a dataset with 34 variables, identifying key contributing factors through data preprocessing and feature selection.\nImplemented Multivariate Multiple Regression, Logistic Regression, and Decision Tree models to assess accuracy and variable significance.\nOvercame low model accuracy by exploring advanced techniques beyond coursework, incorporating Random Forest, KNN, and XGBoost, leading to significant performance improvements."
+  },
+  {
+    "objectID": "work/work1.html",
+    "href": "work/work1.html",
+    "title": "HYEL",
+    "section": "",
+    "text": "Data Analyst and Marketing Intern | Sep 2023 – Mar 2024\n\nWorked as an intern at HYEL, a mobile app development startup, where I automated the user feedback analysis process using Python and SQL due to the lack of a structured system.\nContributed to the growth of the app’s user base to over 2,000 users, primarily Korean students in the U.S. event community. Additionally, collaborated with the CEO to create and present a pitch deck, and worked with the team to transition the user feedback system to a structured Excel-based SQL database.\n\n\n\n\nUser Feedback"
+  },
+  {
+    "objectID": "work/work3.html",
+    "href": "work/work3.html",
+    "title": "ROK-US Combined Training",
+    "section": "",
+    "text": "Data Analyst | Sep 2022 - Mar 2023\n\nOperated ATCIS (Army Tactical Command Information System) to manage and share real-time tactical data (personnel, supplies, equipment, and damage reports) between ROK and U.S. forces.\nAddressed cross-cultural differences in data analysis to improve operational efficiency by visualizing excel data on ATIS using both English and Korean.\nServed as a bilingual liaison between Korean and U.S. military personnel, ensuring accurate communication and data interpretation.\n\n\n\n\nExample of ATCIS Usage"
   }
 ]
