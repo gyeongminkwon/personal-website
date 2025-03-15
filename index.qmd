@@ -21,7 +21,9 @@ Hello! I am a third-year undergraduate student at UCLA pursuing a major in Stati
 # Education 
 
 University of California, Los Angeles \newline 
+
 *B.S. Statistics and Data Science* \newline
+
 Sept 2020 - Present
 
 # Clubs
